@@ -168,11 +168,3 @@ curl "http://localhost:3000/api/search?q=artificial+intelligence&timeframe=24h&s
 2. Create new routes in `/routes/analytics.js`
 3. Implement caching strategy
 4. Add to API documentation
-
-## 📝 License
-
-MIT License - Feel free to use in your projects!
-
----
-
-Built with ❤️ for the developer community
