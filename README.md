@@ -1,6 +1,6 @@
-# Advanced News Aggregator API
+# News Aggregator API
 
-A professional-grade Node.js news aggregation system with intelligent filtering, real-time analytics, and comprehensive source coverage.
+A Node.js news aggregation system with intelligent filtering, real-time analytics, and comprehensive source coverage.
 
 ## 🚀 Features
 
