@@ -2,7 +2,7 @@ export function errorHandler(err, req, res, next) {
   console.error("Error:", err.message)
   console.error("Stack:", err.stack)
 
-  // Default error response
+  // Default messages for errors
   let statusCode = 500
   let message = "Internal server error"
 
