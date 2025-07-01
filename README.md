@@ -9,6 +9,7 @@ A Node.js news aggregation system with intelligent filtering, real-time analytic
 - **Intelligent Search**: Cross-source search with relevance ranking
 - **Real-time Analytics**: Trending topics, sentiment analysis, source metrics
 
+
 ### Advanced Features
 - **Sentiment Analysis**: Rule-based sentiment scoring for all articles
 - **Content Extraction**: Full article text and image extraction
