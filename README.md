@@ -1,5 +1,4 @@
 # News Aggregator API
-
 A Node.js news aggregation system with intelligent filtering, real-time analytics, and comprehensive source coverage.
 
 ## 🚀 Features
@@ -21,7 +20,7 @@ A Node.js news aggregation system with intelligent filtering, real-time analytic
 
 ### News Sources
 \`\`\`
-GET /api/techcrunch    - TechCrunch technology news
+GET /api/techcrunch   - TechCrunch technology news
 GET /api/bbc          - BBC world news  
 GET /api/hackernews   - Hacker News discussions
 GET /api/reddit       - Reddit programming community
